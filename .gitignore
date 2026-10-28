@@ -1,0 +1,5 @@
+.DS_Store
+dramsim
+record_traces
+traces/
+__pycache__/
