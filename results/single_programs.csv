@@ -1,0 +1,11 @@
+program,policy,hit_rate,avg_wait,avg_latency,throughput
+stream,FIFO,0.9921,77.74,88.91,0.08996
+stream,FR-FCFS,0.9921,73.62,84.79,0.09433
+mixed,FIFO,0.9633,80.91,92.72,0.08619
+mixed,FR-FCFS,0.9633,67.16,78.97,0.1012
+matmul,FIFO,0.8039,93.49,108.8,0.0494
+matmul,FR-FCFS,0.8069,35.16,50.41,0.07618
+random,FIFO,0.0006,95.41,128.4,0.0623
+random,FR-FCFS,0.0009,49.42,82.4,0.09705
+linkedlist,FIFO,0.0017,0.0,32.96,0.03034
+linkedlist,FR-FCFS,0.0017,0.0,32.96,0.03034
